@@ -1,5 +1,7 @@
 # Add  code here!
-def prime?(integer)
+def method_name
+  
+end prime?(integer)
   if integer > 0 && integer !% 2
     return true
   else
